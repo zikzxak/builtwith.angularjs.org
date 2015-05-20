@@ -22,6 +22,21 @@
     ]
   },
   {
+  "name": "Culinar", 
+  "thumb": "culinar/thumb.png",
+  "desc": "The best takeaway service in town",
+  "url": "http://culinar.fi",
+  "info": "http://culinar.fi", 
+  "submitter": "zikzxak",
+  "submissionDate": "2015-05-20", 
+  "tags": [
+    "Production",
+    "Food",
+    "Animations", "CSS", "MEAN",
+    "No jQuery"
+  ]
+  },
+  {
     "name": "DBFreebies",
     "thumb": "dbfreebies/thumb.png",
     "desc": "A place to download the best freebies design resources from Dribbble and Behance.",
